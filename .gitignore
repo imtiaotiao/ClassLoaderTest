@@ -1,0 +1,7 @@
+
+#ignore .idea project directory
+.idea/
+*.iml
+
+# ignore buile directory
+out/
